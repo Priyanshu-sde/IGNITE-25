@@ -11,11 +11,13 @@
 Practice the following questions and write code where required:
 
 1. **Code Output + Explanation**  
-   What will be the output of the given JavaScript code? Explain why.![image](https://github.com/user-attachments/assets/19e9cceb-8079-4479-9b34-cd25a80d9c47)
+   What will be the output of the given JavaScript code? Explain why.![image](https://github.com/user-attachments/assets/af9b3458-628c-416e-841d-d2daa22ded4c)
+
 
 
 2. **Type Conversion**  
-   What will be the output of the code snippet? Explain the type conversions happening.![image](https://github.com/user-attachments/assets/651512b1-5ccc-4d08-b64b-55df45ed4bb8)
+   What will be the output of the code snippet? Explain the type conversions happening.![image](https://github.com/user-attachments/assets/68f9f7f2-f76c-4b72-ab02-ce5860fd25b3)
+
 
 
 
@@ -30,7 +32,8 @@ Practice the following questions and write code where required:
    Explain the difference between **stack** and **heap** memory in JavaScript. Give examples of what is stored where.
 
 5. **Memory Allocation Explanation**  
-   Analyze the given code and explain what happens in memory (stack/heap).![image](https://github.com/user-attachments/assets/9f982443-aea8-414e-a6c8-7c928805f050)
+   Analyze the given code and explain what happens in memory (stack/heap).![image](https://github.com/user-attachments/assets/7eb5cdc5-8265-4c83-a185-5ef4bc1dbea9)
+
 
 
 6. **String Analysis Function**  
@@ -53,7 +56,7 @@ Practice the following questions and write code where required:
    - Add a new student  
    - Find student by name  
    - Get all students with `grade > 80`
-   - ![image](https://github.com/user-attachments/assets/337493de-3125-44f0-9bc6-9100067e7150)
+   - ![image](https://github.com/user-attachments/assets/c061c973-12bf-4452-9a28-e9d9b88241e3)
 
 
 9. **Destructuring**  
@@ -63,7 +66,8 @@ Practice the following questions and write code where required:
     Explain the difference between:
 
 
-       ![image](https://github.com/user-attachments/assets/4be5879d-bc3e-4af9-a213-a321ebd31df4)
+       ![image](https://github.com/user-attachments/assets/ccc857ae-b5b4-48af-a937-b3fa33a9b8f0)
+
 
     When would you use each?
 
@@ -74,7 +78,8 @@ Practice the following questions and write code where required:
     - Returns a new array with the callback applied to each element
 
 12. **Hoisting**  
-    Explain hoisting with examples. What will be the output of the given code?![image](https://github.com/user-attachments/assets/825c3ce2-0ae5-420b-b0ae-d51e473f5592)
+    Explain hoisting with examples. What will be the output of the given code?![image](https://github.com/user-attachments/assets/763396c6-7195-4610-a018-f0dac2ee6a79)
+
 
 
 13. **The `this` Keyword**  
@@ -106,7 +111,8 @@ Solve the following using JavaScript. Include clean, commented code.
     - Filter products under `$600`  
     - Calculate total price  
     - Group products by category
-    - ![image](https://github.com/user-attachments/assets/4af2d2eb-efac-4e4b-8fbe-b6dfed8cb3ce)
+    - ![image](https://github.com/user-attachments/assets/07644d7b-f2a1-41e5-ba34-c97b65e3f5b3)
+
 
 
 17. **Object Manipulation & JSON**  
@@ -128,14 +134,15 @@ Solve the following using JavaScript. Include clean, commented code.
     - Takes an array and multiple callbacks  
     - Applies each callback in order to the array  
     - Returns the final result
-    - ![image](https://github.com/user-attachments/assets/bff46560-1f7f-4671-8733-769712dcafc7)
+    - ![image](https://github.com/user-attachments/assets/20741bf9-6950-4b6a-a7bb-cea879687d81)
 
 
 20. **Execution Context**  
     Analyze the given JavaScript code and:
     - Predict the output  
     - Explain the concepts of execution context and scope chain involved
-    - ![image](https://github.com/user-attachments/assets/d1b038b2-6a1f-45f3-aaa1-31a202da46b2)
+    - ![image](https://github.com/user-attachments/assets/cf2ce62e-e2ac-4ec1-9618-b71423e730a6)
+
 
 
 ---
